@@ -1,0 +1,6 @@
+Feature: Test techconnectr
+
+  Scenario Outline: Login to the Techconnect [90m# features/Test2.feature:3[0m
+    [36mGiven [0m[36mOpen the Chrome browser[0m
+    [36mWhen [0m[36mEnter the username and password[0m
+    [36mThen [0m[36mLogin to the portal[0m
